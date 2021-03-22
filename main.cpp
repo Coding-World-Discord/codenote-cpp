@@ -4,7 +4,7 @@
 // gmail: <michaelbrockus@gmail.com>
 //
 #include <iostream>
-#include <stdlib>
+#include <cstdlib>
 
 // main is where program execution starts
 int main()
